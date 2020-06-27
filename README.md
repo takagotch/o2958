@@ -33,7 +33,10 @@ https://via.placeholder.com/300
 
 ```
 
+#### placehold
 ```
+<img class="img-fluid d-block mx-auto" src="http://placehold.it/200x200&text=Logo" alt="">
+
 ```
 
 ```
